@@ -32,11 +32,11 @@ network_lst = {}
 FFEVSS23 = NetworkFFEVSS(network_name = 'FFEVSS23',
 			  input_dim=4,
 			  n_nodes = 23,
-              n_agents = 1,  
+              n_agents = 2,  
 			  n_drivers = 3,
 			  decode_len= 45,
 			  capacity=6,
             n_charge= 7, 
             n_demand = 7, 
-            difficulty='medium')
+            difficulty='easy')
 network_lst['FFEVSS23'] = FFEVSS23
