@@ -22,3 +22,8 @@ Python > 3.6
 2. Specify an urban network structure of FFEVSS or use the default structure included in network_settings.py. 
 3. Run python3 main.py, the default setting will start training for a single shuttle routing. 
 4. To perform only inference please set 'train' to False in options.py 
+
+## To Cite 
+Please include citing info
+
+## Sample Solutions 
