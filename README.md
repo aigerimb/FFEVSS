@@ -7,15 +7,15 @@ Pytorch 1. 5
 Python > 3.6 
 
 ## Content 
-1. agents stores A2CAgents designed to train and test reinforcement learning agents for a single and multi shuttle routing, that use A2C algorithm for training . 
-2. data containes test dataset designed for a specific urban network structure. 
+1. **agents** stores A2CAgents designed to train and test reinforcement learning agents for a single and multi shuttle routing, that use A2C algorithm for training . 
+2. **data** containes test dataset designed for a specific urban network structure. 
 3. envs stores two simulatores to represent environments of FFEVSS with a single and multiple shuttles and data generators that produce training data for simulators on the fly. 
-4. neuralnets includes Actor and Critic neural nets that are based on sequence to sequence models with attention mechanism 
-5. results stores inference results based on test datasest stored in the data folder 
-6. trained_models containes keys of trained models and can be directly loaded to Actor and Critic models 
-7. main.py imports all needed libraries either for a single or multi shuttle routing and allows to perform training and testing using specific RL agents.
-8. network_settings.py specifies an urban network structure of FFEVSS that are later passed to data generator and environment. 
-9. options inlcudes the argument values used throughout training and testing. 
+4. **neuralnets** includes Actor and Critic neural nets that are based on sequence to sequence models with attention mechanism 
+5. **results** stores inference results based on test datasest stored in the data folder 
+6. **trained_models** containes keys of trained models and can be directly loaded to Actor and Critic models 
+7. **main.py** imports all needed libraries either for a single or multi shuttle routing and allows to perform training and testing using specific RL agents.
+8. **network_settings.py** specifies an urban network structure of FFEVSS that are later passed to data generator and environment. 
+9. **options.py** inlcudes the argument values used throughout training and testing. 
 
 ## To Run 
 1. Clone this repository. 
