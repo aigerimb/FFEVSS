@@ -27,3 +27,7 @@ Python > 3.6
 Please include citing info
 
 ## Sample Solutions 
+A sample solution for a sinlge shuttle routing in the urban network of size 23 nodes. 
+[example-single.pdf](https://github.com/aigerimb/FFEVSS/files/5240877/example-single.pdf)
+A sample solution for a multi shuttle routing in the urban network of size 23 nodes. 
+[samplefigure.pdf](https://github.com/aigerimb/FFEVSS/files/5240878/samplefigure.pdf)
