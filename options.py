@@ -45,7 +45,7 @@ def ParseParams():
     parser.add_argument('--mask_logits', type=str2bool, default=True, help='mask unavailble nodes probs')
     
     # Training
-    parser.add_argument('--train', default=False,type=str2bool, help="whether to do the training or not")
+    parser.add_argument('--train', default=True,type=str2bool, help="whether to do the training or not")
     parser.add_argument('--actor_net_lr', default=1e-4,type=float, help="Set the learning rate for the actor network")
     parser.add_argument('--critic_net_lr', default=1e-4,type=float, help="Set the learning rate for the critic network")
     parser.add_argument('--random_seed', default= 5,type=int, help='')
