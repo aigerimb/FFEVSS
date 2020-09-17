@@ -28,9 +28,7 @@ Please include citing info
 
 ## Sample Solutions 
 A sample solution for a sinlge shuttle routing in the urban network of size 23 nodes. 
-![example-single-1](https://user-images.githubusercontent.com/25514362/93505944-8c1cfd80-f8e9-11ea-81af-ae5d10f5eeaf.png){:class="img-responsive"}
-![example-single-1](https://user-images.githubusercontent.com/25514362/93505944-8c1cfd80-f8e9-11ea-81af-ae5d10f5eeaf.png){:height="50%" width="50%"}
-![example-single-1](https://user-images.githubusercontent.com/25514362/93505944-8c1cfd80-f8e9-11ea-81af-ae5d10f5eeaf.png){:height="700px" width="400px"}
+![example-single-1](https://user-images.githubusercontent.com/25514362/93505944-8c1cfd80-f8e9-11ea-81af-ae5d10f5eeaf.png=100x20)
 A sample solution for a multi shuttle routing in the urban network of size 23 nodes. 
 ![samplefigure-1](https://user-images.githubusercontent.com/25514362/93505946-8cb59400-f8e9-11ea-901f-f5c9ca80e185.png)
 
