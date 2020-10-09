@@ -1,6 +1,6 @@
 # Free-floating Electrical Vehicles Sharing Systems (FFEVSS)
-This repository contains all implementations of "A Reinforcement Learning Approach for Rebalancing Electric Vehicle
-Sharing Systems", inclduing environments for both a single and multi shuttle routing in FFEVSS. 
+This repository contains all implementations of ["A Reinforcement Learning Approach for Rebalancing Electric Vehicle
+Sharing Systems"](https://arxiv.org/abs/2010.02369), inclduing environments for both a single and multi shuttle routing in FFEVSS. 
 
 ## Dependencies 
 Pytorch 1. 5 
