@@ -30,6 +30,7 @@ python main.py --train=False
 ```
 
 ## To Cite 
+```
 @misc{bogyrbayeva2020reinforcement,
       title={A Reinforcement Learning Approach for Rebalancing Electric Vehicle Sharing Systems}, 
       author={Aigerim Bogyrbayeva and Sungwook Jang and Ankit Shah and Young Jae Jang and Changhyun Kwon},
@@ -38,6 +39,7 @@ python main.py --train=False
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
 
 ## Sample Solutions 
 A sample solution for a sinlge shuttle routing in the urban network of size 23 nodes. 
